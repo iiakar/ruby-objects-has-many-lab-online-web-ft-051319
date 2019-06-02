@@ -17,7 +17,7 @@ class Post
       self.author = author.name
       if author = nil
         return nil 
-      else 
+      #else 
         
         #return author
   end
