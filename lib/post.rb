@@ -20,5 +20,6 @@ class Post
         self.author = author.name
         #return author
   end
+end
 
 end
